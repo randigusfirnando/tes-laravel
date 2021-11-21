@@ -11,7 +11,8 @@
 * [Membuat Vendor](#membuat-vendor)
 * [Merubah .env](#merubah-.env)
 * [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
-* [Menjalankan Website](#menjalankan-website)
+* [Menjalankan Website](#Menjalankan Project Menggunakan Laragon)
+* [Menjalankan Website](#Cara Lain Menjalankan Project)
 
 ### Mengunduh Repository
 Unduh repository ke dalam komputer menggunakan perintah `git clone`. Url
@@ -32,11 +33,11 @@ Membuat vendor menggunakan perintah `composer install` atau `composer update`
 * Mengganti `DB_DATABASE='nama_database'` dengan nama database yang anda buat di MySQL
 * Lakukan migrasi dengan perintah `php artisan migrate` atau bisa menggunakan perintah 'php artisan migrate:fresh'
 
-### Menjalankan Website Menggunakan Laragon
+### Menjalankan Project Menggunakan Laragon
 * Jalankan Laragon
 * Jalankan Laravel dengan perintah `php artisan serve`
 
-### Cara Lain Menjalankan Website
+### Cara Lain Menjalankan Project
 * Jalankan XAMPP 
 * Jalankan Laravel dengan perintah `php artisan serve`
 * Kemudian buka di website di `http://localhost:8000/`
