@@ -11,8 +11,8 @@
 * [Membuat Vendor](#membuat-vendor)
 * [Merubah .env](#merubah-.env)
 * [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
-* [Menjalankan Website](#Menjalankan Project Menggunakan Laragon)
-* [Menjalankan Website](#Cara Lain Menjalankan Project)
+* [Menjalankan Project Menggunakan Laragon](#Menjalankan Project Menggunakan Laragon)
+* [Cara Lain Menjalankan Project](#Cara Lain Menjalankan Project)
 
 ### Mengunduh Repository
 Unduh repository ke dalam komputer menggunakan perintah `git clone`. Url
